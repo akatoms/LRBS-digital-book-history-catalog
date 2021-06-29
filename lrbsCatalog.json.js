@@ -1,4 +1,4 @@
-var catData = [[
+var catData = [
 	{
 		"id": "http://zotero.org/groups/4293914/items/ME7YZNE7",
 		"type": "chapter",
